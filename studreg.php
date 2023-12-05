@@ -4,12 +4,32 @@
     </head>
     <body>
         <form action="studreg1.php" method="POST">
-            Name:<input type="text" name="name"/><br>
-            Roll No:<input type="text" name="rollno"/><br>
-            KTU Id:<input type="text" name="ktuid"/><br>
-            Gender:<input type="text" name="gender"/><br>
-            Semester:<input type="text" name="semester"/><br>
-            <input type="submit"/>
+            <table border="0" cellspacing="10" cellpadding="10">
+                <tr>
+                    <td>Name : </td>
+                    <td><input type="text" name="name"/></td>
+                </tr>
+                <tr>
+                    <td>Roll No : </td>
+                    <td><input type="text" name="rollno"/></td>
+                </tr>
+                <tr>
+                    <td>KTU Id : </td>
+                    <td><input type="text" name="ktuid"/></td>
+                </tr>
+                <tr>
+                    <td>Gender : </td>
+                    <td><input type="text" name="gender"/></td>
+                </tr>
+                <tr>
+                    <td>Semester : </td>
+                    <td><input type="text" name="semester"/></td>
+                </tr>
+                <tr>
+                    
+                    <td><input type="submit" name=/></td>
+                </tr>
+            </table>
         </form>
     </body>
 

@@ -10,5 +10,9 @@
         <br>
         <a href="studreg.php" target="right">Register</a><br>
         <br>
+        <br>
+        <a href="mark.php" target="right">Mark</a><br>
+        <br>
+
     </body>
 </html>
