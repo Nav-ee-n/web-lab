@@ -13,6 +13,13 @@
         <br>
         <a href="mark.php" target="right">Mark</a><br>
         <br>
+        <br>
+        <a href="studsearch.php" target="right">View</a><br>
+        <br>
+        <br>
+        <a href="studupdate.php" target="right">Update</a><br>
+        <br>
+
 
     </body>
 </html>

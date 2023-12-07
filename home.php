@@ -6,6 +6,9 @@
         <frame name="left" src="menu.php"/>
         <frame name="right" src="mainhome.php"/>
         <frame name="right" src="mark.php"/>
+        <frame name="right" src="studreg.php"/>
+        <frame name="right" src="studsearch.php"/>
+        <frame name="right" src="studupdate.php"/>
 
         <noframes>
             <body>Browser has no frames</body>
